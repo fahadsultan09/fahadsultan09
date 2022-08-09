@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahad Sultan</h1>
-<h3 align="center">A passionate software Engineer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 🔭 I’m currently working in [Systems Limited](https://www.systemsltd.com)
 
